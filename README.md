@@ -26,20 +26,34 @@ Abstraction: Service classes like InventoryService hide internal logic.
 
 ⚙️ Project Structure
 GROSSERY/
+
 │
+
 ├── models/
+
 │   ├── GroceryItem.class
+
 │   ├── Fruit.class
+
 │   ├── Vegetable.class
+
 │   ├── DairyProduct.class
+
 │
 ├── services/
+
 │   ├── InventoryService.class
+
 │   ├── InventoryServiceImpl.class
+
 │
+
 ├── utils/
+
 │   └── Main.class
+
 │
+
 └── ...
 
 💡 Features
