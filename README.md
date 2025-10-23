@@ -63,6 +63,7 @@ Open in VS Code or any Java IDE.
 Compile and run:
 
 javac Main.java
+
 java Main
 
 🧩 Tech Stack
